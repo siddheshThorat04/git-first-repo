@@ -3,3 +3,5 @@
 I have learnt coding but they say github is your proof of work so now learning gihtub. 🤦‍♂️
 
 Author- Siddhesh Thorat
+
+setting up linux environment.
